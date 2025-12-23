@@ -1,0 +1,12 @@
+
+.hi{
+display:fkex;
+flex-direction:row;
+align-items:center;
+justify-content:center;
+gap:30px;
+}
+.image{
+    width:200px;
+    height:200px;
+}
